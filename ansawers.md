@@ -10,3 +10,21 @@ A6: answers.md file has been added to the staging area is being tracked. <br>
 A7_1: Nothing to commit, working tree clean(every file is ready to pushed)<br>
 A7_2: answers.md file is not in the staging area and is not being tracked.<br>
 **Note: Both A7_1 and A7_2 are correct. Anything along those lines also works**<br>
+A8: It records the number of commits done. <br>
+    commit aed133772f4ab5aa9b8586aa664a0dc6e2f80a0b (HEAD -> master)<br>
+    Author: Ojaswi Sinha <os675524@ohio.edu><br>
+    Date:   Thu Sep 12 11:52:36 2024 -0400<br>
+<br>
+        Initial commit<br>
+<br>
+    commit 61bf0e649da0c8f2fc820d77e8efc73ad45b9d8c<br>
+    Author: Ojaswi Sinha <os675524@ohio.edu><br>
+    Date:   Thu Sep 12 11:49:35 2024 -0400<br>
+<br>
+        Initial commit<br>
+
+    commit 68486e17772750366320207312b851b86bef13d2<br>
+    Author: Ojaswi Sinha <os675524@ohio.edu> <br>
+    Date:   Thu Sep 12 11:47:24 2024 -0400 <br>
+<br>
+        Initial commit<br>
