@@ -6,4 +6,7 @@ A3:It provides information regarding "git add" and its different tags and how th
 A4: They should see both README.md and answers.md files not being tracked and be in red color. (Anything along those lines work. Answers need to make sense)<br>
 A5: README.md file is in the staging area and is being tracked now and its color is green while answers.md is still red and not tracked.<br>
 A6: answers.md file has been added to the staging area is being tracked. <br>
-**Note: There are 2 answers for A7 depends if they have been adding everytime they change anything in answers.md file** 
+**Note: There are 2 answers for A7 depends if they have been adding everytime they change anything in answers.md file** <br>
+A7_1: Nothing to commit, working tree clean(every file is ready to pushed)<br>
+A7_2: answers.md file is not in the staging area and is not being tracked.<br>
+**Note: Both A7_1 and A7_2 are correct. Anything along those lines also works**<br>
