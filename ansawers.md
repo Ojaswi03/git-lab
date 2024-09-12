@@ -28,5 +28,9 @@ A8: It records the number of commits done. <br>
     Date:   Thu Sep 12 11:47:24 2024 -0400 <br>
 <br>
         Initial commit<br>
-A9: Their git-lab repo changes from "quicksetup guide" to repo holding their README.md and answers.md file
-A10: No change. This is because changes were made online which didnt change the local repo on my laptop/computer
+A9: Their git-lab repo changes from "quicksetup guide" to repo holding their README.md and answers.md file<br>
+A10: No change. This is because changes were made online which didnt change the local repo on my laptop/computer<br>
+A11: Remote contains work that the local doesnt have so there is conflict. <br>
+A12: Yes the changes were made.<br>
+        I can see this being added to my local README.md file<br>
+        CS 2400, Section 107<br>
